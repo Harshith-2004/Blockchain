@@ -1,0 +1,16 @@
+{
+  "name": "blockchain1",
+  "version": "1.0.0",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.8.0",
+    "solc": "^0.8.19"
+  },
+  "description": ""
+}
