@@ -29,4 +29,4 @@ Follow these steps to set up your development environment.
 Open your terminal and clone the project repository to your local machine.
 
 ```bash
-git clone [https://github.com/Harshith-2004/Blockchain.git](https://github.com/Harshith-2004/Blockchain.git)
+git clone https://github.com/Harshith-2004/Blockchain.git
